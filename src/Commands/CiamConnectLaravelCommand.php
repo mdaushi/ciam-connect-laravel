@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Mdaushi\CiamConnectLaravel\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class CiamConnectLaravelCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'ciam-connect-laravel';
 
     public $description = 'My command';
 
