@@ -2,9 +2,9 @@
 
 namespace Mdaushi\CiamConnectLaravel;
 
+use Mdaushi\CiamConnectLaravel\Commands\CiamConnectLaravelCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Mdaushi\CiamConnectLaravel\Commands\CiamConnectLaravelCommand;
 
 class CiamConnectLaravelServiceProvider extends PackageServiceProvider
 {
